@@ -1,6 +1,3 @@
 mountpoints:
-  /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/renato6gs/aem-eds-boilerplate/main"
-    type: "markup"
-    suffix: ".html"
-    
+  /: https://content.da.live/renato6gs/aem-eds-boilerplate/
+  
